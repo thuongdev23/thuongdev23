@@ -9,6 +9,13 @@ and blending architecture with technology 🌿
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?logo=cisco&logoColor=white)
+
 
 ---
 
@@ -18,9 +25,7 @@ and blending architecture with technology 🌿
 - ⚛️ React + Vite Projects
 
 ---
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rantifay&color=blue)
 
