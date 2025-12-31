@@ -18,10 +18,13 @@ I'm passionate about building applications and responsive websites using modern 
 
 ---
 
-### ✍️ Recent Work
-- 🌱 Nature Syntax & Architecture Research
-- 🧠 Digital Wellness & Campus Design
-- ⚛️ React + Vite Projects
+### 🛠 Featured Projects
+- 🍔 Online Food Ordering Website with modern UI  
+- 🧠 Creative Personal Portfolio showcasing my work  
+- 🥗 Full-Stack Meal Planning Website (backend + frontend)  
+- 📱 iOS To-Do List App built with Swift  
+- 🎮 Simple Game developed using Unity  
+- ⚛️ Web projects built with React and Vite  
 
 ---
 
