@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Thuong Nguyen!
 
-I'm passionate about building web apps, research-driven design,  
-and blending architecture with technology 🌿
+I'm passionate about building applications and responsive websites using modern technologies.
 
 ---
 
