@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Thuong Nguyen!
 
-I'm passionate about building applications and responsive websites using modern technologies.
+I'm passionate about building applications and responsive websites using modern technologies. Besides I am also interested in integrate the web and app with AI to make it more efficient and more intelligent. 
 
 ---
 ## 💻 Programming Languages
